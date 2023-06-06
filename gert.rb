@@ -1,8 +1,8 @@
 class Gert < Formula
   desc "Command-line tool to download media from Reddit"
   homepage "https://github.com/mcdallas/gert"
-  url "https://github.com/mcdallas/gert/releases/download/v0.2.1/gert_v0.2.1_x86_64-apple-darwin.tar.gz"
-  sha256 "6a95d751ddde9b53dce8bbc2c313651d91b8dc6117a9fc9d632e01a4ba5d8d01"
+  url "https://github.com/mcdallas/gert/releases/download/v0.2.2/gert_v0.2.2_x86_64-apple-darwin.tar.gz"
+  sha256 "9bbec78ae54f3aa28d1ff65212fcbe589d58c1001217067352c375ac443b7b38"
   license "MIT"
 
   depends_on "ffmpeg"
